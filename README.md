@@ -1,2 +1,2 @@
 # vb-tic-tac-toe
-A .NET VB game I was forced to make for a grade. Don't judge me.
+A .NET VB game I did for a project years back.
